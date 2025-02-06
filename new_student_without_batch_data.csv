@@ -1,0 +1,3 @@
+firstName,lastName,contact_no,email,dateOfBirth,bloodGroup,division,district,address,school,gender,userName,password,guardianFirstName,guardianLastName,guardianContactNo,guardianEmail,guardianRelation,guardianUserName,guardianPassword
+Ayyyaan,Khan,01100334455,ayaan.khan@gmail.com,15/05/2001,B (+ve),CHITTAGONG,CHITTAGONG,House-10,Heritage school,male,ayyyaan.k,SecurePass123,Fayaaz,Khan,01144556677,fayaz.khan@gmail.com,Father,fayyaazkhan,SecurePass123
+Rimeeee,Maria,01952200111,maria@gmail.com,09/09/2004,A (+ve),CHITTAGONG,CHANDPUR,House-60,Hazi Mohsin school,female,rime.maria,RimeMaria1,Abdul,Hannan,01952200121,abdul.hannan@gmail.com,Father,abdulhannan,AbdulHannan1
